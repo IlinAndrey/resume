@@ -29,7 +29,7 @@ function App() {
           </div>
         </div>
 
-        <div class="max-w-full m-5 bg-white rounded-xl shadow-md overflow-hidden lg:max-w-2xl ">
+        <div class="max-w-full m-5 bg-white rounded-xl shadow-md overflow-hidden h-auto lg:max-w-2xl ">
           <div class="lg:flex">
             {/* <div class="md:shrink-0">
               <img class="h-48 w-full object-cover md:h-full md:w-48" src={image2} alt="" />
