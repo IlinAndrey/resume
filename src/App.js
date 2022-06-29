@@ -42,7 +42,7 @@ function App() {
               <a className='bg-white' href="https://github.com/IlinAndrey"><img class="bg-[#ffffff] w-5 mt-4" src={git} /></a>
               <a className='bg-white' href="https://www.instagram.com/wyugxl"><img class="bg-[#ffffff] w-5 mt-4 ml-4" src={inst} /></a>
               </div>
-              <p className='bg-[#ffffff] text-violet-500 text-xl font-semibold mt-3 translate-y-3 underline underline-offset-[1.47rem]'>Резюме</p>
+              <p className='bg-[#ffffff] text-violet-500 text-xl font-semibold mt-3 translate-y-3 underline underline-offset-[1.5rem]'>Резюме</p>
             </div>
           </div>
         </div>
