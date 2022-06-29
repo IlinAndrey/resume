@@ -42,7 +42,7 @@ function App() {
               <a className='bg-white' href="https://github.com/IlinAndrey"><img class="bg-[#ffffff] w-5 mt-4" src={git} /></a>
               <a className='bg-white' href="https://www.instagram.com/wyugxl"><img class="bg-[#ffffff] w-5 mt-4 ml-4" src={inst} /></a>
               </div>
-              <p className='bg-[#ffffff] text-violet-500 text-xl font-semibold mt-3 translate-y-3 underline underline-offset-[1.5rem]'>Резюме</p>
+              <p className='bg-[#ffffff] text-violet-500 text-xl font-semibold mt-3 translate-y-3 underline underline-offset-[1.53rem]'>Резюме</p>
             </div>
           </div>
         </div>
@@ -97,15 +97,15 @@ function App() {
                     <div className='w-12 mr-2 bg-white'>
                       <p className=' px-4 bg-violet-200 rounded-lg text-violet-700 w-auto'>JS</p>
                     </div>
-                    <div className='w-20 mr-2 bg-white'>
+                    <div className='w-22 mr-2 bg-white'>
                       <p className=' px-4 bg-violet-200 rounded-lg text-violet-700 w-auto'>ReactJS</p>
                     </div>
                   {/* </div> */}
                   {/* <div className='flex bg-white'> */}
-                    <div className='w-14 mx-2 mb-3 bg-white'>
+                    <div className='w-15 mx-2 mb-3 bg-white'>
                       <p className=' px-4 bg-violet-200 rounded-lg text-violet-700 w-auto'>CSS</p>
                     </div>
-                    <div className='w-16 mr-2 bg-white'>
+                    <div className='w-18 mr-2 bg-white'>
                       <p className=' px-4 bg-violet-200 rounded-lg text-violet-700 w-auto'>SCSS</p>
                     </div>
                   {/* </div> */}
